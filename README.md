@@ -47,35 +47,21 @@ I’m a Software Engineer with 1+ year of professional experience building **AI-
 
 ## 🛠 Tech Stack
 
-### 💻 Languages
-- JavaScript / TypeScript
-- Python
-- Java / Kotlin
-- C / Bash (Linux)
+### 💻 Languages                          ### 🌐 Frontend                              ### 🔧 Backend & DevOps
+- JavaScript / TypeScript                 - React.js, Next.js                          - Node.js (NestJS), FastAPI
+- Python                                  - Redux Toolkit (RTK Query)                  - REST APIs, WebSockets
+- Java / Kotlin                           - TailwindCSS, SASS, ShadCN UI               - Docker, CI/CD (GitLab)
+- C / Bash (Linux)                        - Android Studio                             - AWS (EC2, S3)
+                                                                                       - Redis
+                                                                                       - Docker, GitLab CI/CD, Coolify
 
-### 🌐 Frontend
-- React.js, Next.js
-- Redux Toolkit (RTK Query)
-- TailwindCSS, SASS, ShadCN UI
 
-### 🔧 Backend & DevOps
-- Node.js (NestJS), FastAPI
-- REST APIs, WebSockets
-- Docker, CI/CD (GitLab)
-- AWS (EC2, S3)
-- Redis
+### 🤖 AI / LLM                            ### 🗄 Databases
+- OpenAI API, RAG, Embeddings              - PostgreSQL
+- LangChain, LangGraph, LlamaIndex         - MongoDB
+- Multi-Agent Systems                      - Supabase
+- Vector DBs: Pinecone, Chroma             ---
 
-### 🤖 AI / LLM
-- OpenAI API, RAG, Embeddings
-- LangChain, LangGraph, LlamaIndex
-- Multi-Agent Systems
-- Vector DBs: Pinecone, Chroma
-
-### 🗄 Databases
-- PostgreSQL
-- MongoDB
-
----
 
 ## 🚀 Featured Project
 
@@ -91,17 +77,10 @@ I’m a Software Engineer with 1+ year of professional experience building **AI-
 
 ## 💼 Experience Highlights
 
-### 🧠 AI Engineer – AI Vietnam
-- Built full-stack AI learning platform (real-time + gamification)
-- Designed scalable system with **microservices & Docker**
-- Integrated **AI tutoring + marketplace + payments**
-
-### 🎨 AI Engineer – Bamboo Software
-- Developed AI image generation & meme editing platform
-- Built full-stack system with **React + NestJS**
-- Implemented **JWT auth, payment systems, and real-time APIs**
-
----
+### 🧠 AI Engineer – AI Vietnam                                                ### 🎨 AI Engineer – Bamboo Software
+- Built full-stack AI learning platform (real-time + gamification)             - Developed AI image generation & meme editing platform
+- Designed scalable system with **microservices & Docker**                     - Built full-stack system with **React + NestJS**
+- Integrated **AI tutoring + marketplace + payments**                          - Implemented **JWT auth, payment systems, and real-time APIs**
 
 ## 🧩 Other University & Personal Projects
 
