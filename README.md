@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8e2de2,100:4a00e0&height=170&section=header&text=🌌%20Linh%20Vu%20|%20AI%20Full-Stack%20Engineer&fontSize=30&fontColor=ffffff&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:bb81ee,20:b06ceb,100:bb81ee&height=170&section=header&text=🌌%20Linh%20Vu%20|%20AI%20Full-Stack%20Engineer&fontSize=30&fontColor=ffffff&animation=twinkling"/>
 </p>
 
 <h3 align="center">
@@ -7,12 +7,11 @@ Building Intelligent Systems • Scaling Modern Applications • Future Tech Lea
 </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=lyknny&label=Profile%20Views&color=dc3545&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/lyknny?style=for-the-badge&color=ffc107&labelColor=000000" />
-  <img src="https://img.shields.io/github/stars/lyknny?style=for-the-badge&color=28a745&labelColor=000000" />
+  <img height="40" src="https://img.shields.io/badge/Profile%20Name-JMU_CS_Lykny-000000?style=for-the-badge&labelColor=000000"/>  
+  <img height="28" src="https://komarev.com/ghpvc/?username=lyknny&label=Profile%20Views&color=b06ceb&style=for-the-badge"/>&nbsp;
+  <img height="28" src="https://img.shields.io/github/followers/JMU-CS-Lykny?label=Followers&style=for-the-badge&color=000000&labelColor=b06ceb&logo=github&logoColor=FFFFFF"/>
 </p>
 
----
 
 ## 👋 About Me
 
