@@ -1,119 +1,132 @@
-# JMU_CS_Lykny
-Mid-Senior AI Full-Stack Developer with 5+ years studying in US and 1+ year working experience in VN.
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8e2de2,100:4a00e0&height=170&section=header&text=🌌%20Linh%20Vu%20|%20AI%20Full-Stack%20Engineer&fontSize=30&fontColor=ffffff&animation=twinkling"/>
+</p>
+
+<h3 align="center">
+Building Intelligent Systems • Scaling Modern Applications • Future Tech Leader
+</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=lyknny&label=Profile%20Views&color=dc3545&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/lyknny?style=for-the-badge&color=ffc107&labelColor=000000" />
+  <img src="https://img.shields.io/github/stars/lyknny?style=for-the-badge&color=28a745&labelColor=000000" />
+</p>
 
 ---
 
-### 💻 Languages & Core Development
+## 👋 About Me
 
-![JavaScript](https://img.shields.io/badge/JavaScript-Expert-F7DF1E?style=for-the-badge&logo=javascript&logoColor=23F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-Advanced-3178C6?style=for-the-badge&logo=typescript&logoColor=23007ACC)
-![Node.js](https://img.shields.io/badge/Node.js-Backend-339933?style=for-the-badge&logo=node.js&logoColor=6DA55F)
-![Python](https://img.shields.io/badge/Python-Advanced-ffdd54?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/Java-Intermediate-ed8b00?style=for-the-badge&logo=openjdk&logoColor=ed8b00)
-![Kotlin](https://img.shields.io/badge/Kotlin-Intermediate-7f52ff?style=for-the-badge&logo=kotlin&logoColor=7f52ff)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-Mobile%20Dev-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=3DDC84)
-![C](https://img.shields.io/badge/C-Advanced-00599c?style=for-the-badge&logo=c&logoColor=00599c)
-![Bash](https://img.shields.io/badge/Bash-Linux-121011?style=for-the-badge&logo=gnubash&logoColor=121011)
+💡 AI Engineer & Full-Stack Developer with:
+- 🇺🇸 5+ years Computer Science education (U.S.)
+- 🇻🇳 1+ year professional experience in AI & Web Systems  
+- 🧠 Focus on **AI Agents, LLM Systems & Scalable Architectures**
+
+🎯 **Mission:** Build impactful AI-powered products & grow into a Technical Leader
 
 ---
 
-## 📊 GitHub Profile Metrics
+## ⚡ Tech Stack
 
-![Profile Name](https://img.shields.io/badge/Profile%20Name-JMU_CS_Lykny-000000?style=for-the-badge&labelColor=000000)
-![Profile Viewers](https://komarev.com/ghpvc/?&colorLabel=000000&username=lyknny&label=Profile%20Viewers&color=dc3545&style=for-the-badge)
-![Followers](https://img.shields.io/github/followers/lyknny?label=Followers&style=for-the-badge&color=000000&labelColor=ffc107&logo=github&logoColor=FFFFFF)
-![Stars](https://img.shields.io/github/stars/lyknny?label=Total%20Stars&style=for-the-badge&color=000000&labelColor=28a745&logo=github&logoColor=FFFFFF)
+### 💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,kotlin,c,bash" />
+</p>
 
----
+### 🧠 AI
+<p>
+  <img src="https://skillicons.dev/icons?i=terraform,sklearn,pytorch," />
+</p>
 
-# 👋 Hi, I'm Linh Vu
+### 📦 Build tools & Bundle & Package Manager
+<p>
+  <img src="https://skillicons.dev/icons?i=npm,pnpm,webpack,yarn,vite,bun,gradle" />
+</p>
 
-🚀 Software Engineer | AI Engineer | Full-Stack Developer  
-📍 Vinh Yen, Vietnam  
-📧 nhatlinh.lykny@gmail.com  
+### 🌐 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,androidstudio,figma,sass,threejs,html,css,bootstrap" />
+</p>
 
----
+### 🔧 Backend & Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,fastapi,redis,postgres,mongodb,postman,py,prisma,mysql,bitbucket" />
+</p>
 
-## 🧠 About Me
+### ⚙️ DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,aws,supabase,gitlab" />
+</p>
 
-I’m a Software Engineer with 1+ year of professional experience building **AI-powered applications** and scalable web systems.
-
-- 🔭 Currently working on **AI Agents & LLM-powered systems**
-- ⚡ Strong foundation in **Computer Science & System Design**
-- 🌍 Experienced in international environments (U.S. education background)
-- 🎯 Goal: Become a **Technical Leader in AI-enabled Software Development**
-
----
-
-## 🛠 Tech Stack
-
-### 💻 Languages                          ### 🌐 Frontend                              ### 🔧 Backend & DevOps
-- JavaScript / TypeScript                 - React.js, Next.js                          - Node.js (NestJS), FastAPI
-- Python                                  - Redux Toolkit (RTK Query)                  - REST APIs, WebSockets
-- Java / Kotlin                           - TailwindCSS, SASS, ShadCN UI               - Docker, CI/CD (GitLab)
-- C / Bash (Linux)                        - Android Studio                             - AWS (EC2, S3)
-                                                                                       - Redis
-                                                                                       - Docker, GitLab CI/CD, Coolify
-
-
-### 🤖 AI / LLM                            ### 🗄 Databases
-- OpenAI API, RAG, Embeddings              - PostgreSQL
-- LangChain, LangGraph, LlamaIndex         - MongoDB
-- Multi-Agent Systems                      - Supabase
-- Vector DBs: Pinecone, Chroma             ---
-
-
-## 🚀 Featured Project
-
-### 🤖 AI Agent Orchestrator (TrendMind)
-🔗 [https://github.com/JMU-CS-Lykny/ai-agent-orchestrator/](https://github.com/JMU-CS-Lykny/ai-agent-orchestrator/)
-
-- Built a **multi-agent AI system** (planner → executor → evaluator)
-- Real-time orchestration using **FastAPI + WebSockets**
-- LLM-powered reasoning & task decomposition
-- CLI-based system with monitoring & debugging tools
+### 🤖 AI / LLM
+- OpenAI API, RAG, Embeddings  
+- LangChain, LangGraph, LlamaIndex  
+- Multi-Agent Systems  
+- Vector DBs (Pinecone, Chroma)
 
 ---
 
-## 💼 Experience Highlights
+## 📊 GitHub Stats
 
-### 🧠 AI Engineer – AI Vietnam                                                ### 🎨 AI Engineer – Bamboo Software
-- Built full-stack AI learning platform (real-time + gamification)             - Developed AI image generation & meme editing platform
-- Designed scalable system with **microservices & Docker**                     - Built full-stack system with **React + NestJS**
-- Integrated **AI tutoring + marketplace + payments**                          - Implemented **JWT auth, payment systems, and real-time APIs**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JMU-CS-Lykny&show_icons=true&theme=radical&hide_border=true" height="300"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JMU-CS-Lykny&theme=radical&hide_border=true" height="400"/>
+</p>
+---
 
-## 🧩 Other University & Personal Projects
+## 💼 Experience
 
-- 🪙 Blockchain E-Commerce Platform (React + Redux + Web3)
+### 🧠 AI Engineer — AI Vietnam
+- Built full-stack **AI learning platform**
+- Designed **microservices architecture with Docker**
+- Integrated **AI tutoring, marketplace, payments**
+
+### 🎨 AI Engineer — Bamboo Software
+- Developed **AI image & meme generation platform**
+- Built system with **React + NestJS**
+- Implemented **JWT auth, payments, real-time APIs**
+
+---
+
+## 🧩 Projects
+
+- 🪙 Blockchain E-Commerce Platform (React + Web3)
 - ⚡ Trie-based Auto-Completion Engine
-- 🐝 Swarm Simulation System (OOP Design)
-- 👾 Monster Tracking System (Algorithms Optimization)
+- 🐝 Swarm Simulation System
+- 👾 Algorithm Optimization Projects
 
 ---
-
 ## 📜 Certifications
 
-- AWS Cloud Essentials
-- Scrum Fundamentals
-- Backend Engineering (Codecademy)
-- Responsive Web Design (freeCodeCamp)
+<p align="center">
+
+<img src="https://img.shields.io/badge/%20Cloud-AWS%20Essentials-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+<img src="https://img.shields.io/badge/%20Agile-Scrum%20Fundamentals-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white"/>
+<img src="https://img.shields.io/badge/%20Backend-Engineering-111111?style=for-the-badge&logo=codecademy&logoColor=white"/>
+<img src="https://img.shields.io/badge/%20Frontend-Responsive%20Design-264de4?style=for-the-badge&logo=freecodecamp&logoColor=white"/>
+
+</p>
 
 ---
 
-## 📈 What I'm Focusing On
+## 📈 Current Focus
 
 - 🧠 Advanced AI Systems & Multi-Agent Architectures  
 - ⚙️ Backend Scaling & System Design  
-- ☁️ DevOps & Cloud (Docker, Kubernetes, CI/CD)  
-- 🚀 Becoming a Team Lead  
+- ☁️ DevOps (Docker, Kubernetes, CI/CD)  
+- 🚀 Leadership & Team Growth  
 
 ---
 
-## 🤝 Let's Connect
+## 🤝 Connect With Me
 
-- 🌐 Portfolio: [https://nhatlinhlykny.wixsite.com/enc1102-summer23](https://nhatlinhlykny.wixsite.com/enc1102-summer23)
-- 💼 GitHub: [https://github.com/JMU-CS-Lykny](https://github.com/JMU-CS-Lykny)
+<p>
+  🌐 Portfolio: https://nhatlinhlykny.wixsite.com/enc1102-summer23 <br/>
+  💻 GitHub: https://github.com/JMU-CS-Lykny <br/>
+  📧 Email: nhatlinh.lykny@gmail.com
+</p>
 
 ---
 
-⭐️ *“Build scalable systems. Design intelligent solutions. Grow continuously.”*
+<p align="center">
+  ⭐ <i>"Build scalable systems. Design intelligent solutions. Grow continuously."</i>
+</p>
