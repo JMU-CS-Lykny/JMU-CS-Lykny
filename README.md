@@ -103,7 +103,7 @@ I’m a Software Engineer with 1+ year of professional experience building **AI-
 
 ---
 
-## 🧩 Other Projects
+## 🧩 Other University & Personal Projects
 
 - 🪙 Blockchain E-Commerce Platform (React + Redux + Web3)
 - ⚡ Trie-based Auto-Completion Engine
