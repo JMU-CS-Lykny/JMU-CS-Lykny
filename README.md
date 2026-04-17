@@ -80,7 +80,7 @@ I’m a Software Engineer with 1+ year of professional experience building **AI-
 ## 🚀 Featured Project
 
 ### 🤖 AI Agent Orchestrator (TrendMind)
-🔗 https://github.com/lyknny/ai-agent-orchestrator/
+🔗 [https://github.com/JMU-CS-Lykny/ai-agent-orchestrator/](https://github.com/JMU-CS-Lykny/ai-agent-orchestrator/)
 
 - Built a **multi-agent AI system** (planner → executor → evaluator)
 - Real-time orchestration using **FastAPI + WebSockets**
