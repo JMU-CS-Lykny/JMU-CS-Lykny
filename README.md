@@ -1,11 +1,10 @@
+
+<h2 align="center">
+<i>Building Intelligent Systems • Scaling Modern Applications • Future Tech Leader</i>
+</h2>
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:bb81ee,20:b06ceb,100:bb81ee&height=170&section=header&text=🌌%20Linh%20Vu%20|%20AI%20Full-Stack%20Engineer&fontSize=30&fontColor=ffffff&animation=twinkling"/>
 </p>
-
-<h3 align="center">
-Building Intelligent Systems • Scaling Modern Applications • Future Tech Leader
-</h3>
-
 <p align="center">
   <img height="40" src="https://img.shields.io/badge/Profile%20Name-JMU_CS_Lykny-000000?style=for-the-badge&labelColor=000000"/>  
   <img height="28" src="https://komarev.com/ghpvc/?username=lyknny&label=Profile%20Views&color=b06ceb&style=for-the-badge"/>&nbsp;
@@ -64,6 +63,7 @@ Building Intelligent Systems • Scaling Modern Applications • Future Tech Lea
   <img src="https://github-readme-stats.vercel.app/api?username=JMU-CS-Lykny&show_icons=true&theme=radical&hide_border=true" height="300"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=JMU-CS-Lykny&theme=radical&hide_border=true" height="400"/>
 </p>
+
 ---
 
 ## 💼 Experience
