@@ -58,14 +58,6 @@ Building Intelligent Systems • Scaling Modern Applications • Future Tech Lea
 
 ---
 
-### 🤖 AI / LLM
-- OpenAI API, RAG, Embeddings  
-- LangChain, LangGraph, LlamaIndex  
-- Multi-Agent Systems  
-- Vector DBs (Pinecone, Chroma)
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
