@@ -56,6 +56,8 @@ Building Intelligent Systems • Scaling Modern Applications • Future Tech Lea
   <img src="https://skillicons.dev/icons?i=docker,aws,supabase,gitlab" />
 </p>
 
+---
+
 ### 🤖 AI / LLM
 - OpenAI API, RAG, Embeddings  
 - LangChain, LangGraph, LlamaIndex  
