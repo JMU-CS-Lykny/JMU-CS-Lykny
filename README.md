@@ -132,8 +132,8 @@ I’m a Software Engineer with 1+ year of professional experience building **AI-
 
 ## 🤝 Let's Connect
 
-- 🌐 Portfolio: https://nhatlinhlykny.wixsite.com/enc1102-summer23
-- 💼 GitHub: https://github.com/lyknny
+- 🌐 Portfolio: [https://nhatlinhlykny.wixsite.com/enc1102-summer23](https://nhatlinhlykny.wixsite.com/enc1102-summer23)
+- 💼 GitHub: [https://github.com/JMU-CS-Lykny](https://github.com/JMU-CS-Lykny)
 
 ---
 
