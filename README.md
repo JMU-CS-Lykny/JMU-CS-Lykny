@@ -103,10 +103,10 @@
 
 ## 📈 Current Focus
 
-🧠 Advanced AI Systems & Multi-Agent Architectures  
-⚙️ Backend Scaling & System Design  
-☁️ DevOps (Docker, Kubernetes, CI/CD)  
-🚀 Leadership & Team Growth  
+- 🧠 Advanced AI Systems & Multi-Agent Architectures  
+- ⚙️ Backend Scaling & System Design  
+- ☁️ DevOps (Docker, Kubernetes, CI/CD)  
+- 🚀 Leadership & Team Growth  
 
 ---
 
