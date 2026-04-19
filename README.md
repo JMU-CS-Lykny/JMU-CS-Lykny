@@ -82,10 +82,10 @@
 
 ## 🧩 Projects
 
-- 🪙 Blockchain E-Commerce Platform (React + Web3)
-- ⚡ Trie-based Auto-Completion Engine
-- 🐝 Swarm Simulation System
-- 👾 Algorithm Optimization Projects
+🪙 Blockchain E-Commerce Platform (React + Web3)
+⚡ Trie-based Auto-Completion Engine
+🐝 Swarm Simulation System
+👾 Algorithm Optimization Projects
 
 ---
 ## 📜 Certifications
