@@ -15,9 +15,9 @@
 ## 👋 About Me
 
 💡 AI Engineer & Full-Stack Developer with:
-- 🇺🇸 5+ years Computer Science education (U.S.)
-- 🇻🇳 1+ year professional experience in AI & Web Systems  
-- 🧠 Focus on **AI Agents, LLM Systems & Scalable Architectures**
+🇺🇸 5+ years Computer Science education (U.S.)
+🇻🇳 1+ year professional experience in AI & Web Systems  
+🧠 Focus on **AI Agents, LLM Systems & Scalable Architectures**
 
 🎯 **Mission:** Build impactful AI-powered products & grow into a Technical Leader
 
@@ -103,10 +103,10 @@
 
 ## 📈 Current Focus
 
-- 🧠 Advanced AI Systems & Multi-Agent Architectures  
-- ⚙️ Backend Scaling & System Design  
-- ☁️ DevOps (Docker, Kubernetes, CI/CD)  
-- 🚀 Leadership & Team Growth  
+🧠 Advanced AI Systems & Multi-Agent Architectures  
+⚙️ Backend Scaling & System Design  
+☁️ DevOps (Docker, Kubernetes, CI/CD)  
+🚀 Leadership & Team Growth  
 
 ---
 
