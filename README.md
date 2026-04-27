@@ -3,7 +3,7 @@
 <i>Building Intelligent Systems • Scaling Modern Applications • Future Tech Leader</i>
 </h2>
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:bb81ee,20:b06ceb,100:bb81ee&height=170&section=header&text=🌌%20Linh%20Vu%20|%20AI%20Full-Stack%20Engineer&fontSize=30&fontColor=ffffff&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:bb81ee,20:b06ceb,100:bb81ee&height=170&section=header&text=🌌%20Linh%20Vu%20|%20Full-Stack%20AI%20Engineer&fontSize=30&fontColor=ffffff&animation=twinkling"/>
 </p>
 <p align="center">
   <img height="40" src="https://img.shields.io/badge/Profile%20Name-JMU_CS_Lykny-000000?style=for-the-badge&labelColor=000000"/>  
