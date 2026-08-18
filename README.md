@@ -14,6 +14,21 @@
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=JMU-CS-Lykny&show_icons=true&theme=radical&hide_border=true&count_private=true"
+    height="180"
+  />
+  <img
+    src="https://streak-stats.demolab.com?user=JMU-CS-Lykny&theme=radical&hide_border=true"
+    height="180"
+  />
+</p>
+
+---
+
 ## 👋 About Me
 
 I'm an **AI Full-Stack Product Engineer** focused on building intelligent, scalable, production-ready software systems.
@@ -508,20 +523,6 @@ User Goal
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=JMU-CS-Lykny&show_icons=true&theme=radical&hide_border=true&count_private=true"
-    height="180"
-  />
-  <img
-    src="https://streak-stats.demolab.com?user=JMU-CS-Lykny&theme=radical&hide_border=true"
-    height="180"
-  />
-</p>
-
----
 
 # 📈 Current Focus
 
