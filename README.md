@@ -506,16 +506,7 @@ User Goal
 * Confluence
 * SDLC
 
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JMU-CS-Lykny&show_icons=true&theme=radical&hide_border=true" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JMU-CS-Lykny&theme=radical&hide_border=true" height="180"/>
-</p>
-
----
+--- ## 📊 GitHub Stats <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=JMU-CS-Lykny&show_icons=true&theme=radical&hide_border=true" height="400"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=JMU-CS-Lykny&theme=radical&hide_border=true" height="400"/> </p> ---
 
 # 📈 Current Focus
 
